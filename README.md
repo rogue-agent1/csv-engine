@@ -1,11 +1,11 @@
 # csv_engine
 
-csv_engine - CSV parser with SQL-like query operations.
+csv_engine: CSV parser/writer with quoting and escaping.
 
-Zero-dependency, single-file Python CLI.
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 csv_engine.py
+python3 csv_engine.py test
 ```
